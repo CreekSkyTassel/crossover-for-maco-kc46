@@ -1,4 +1,4 @@
-
+Enhance CrossOver for macOS with professional CrossOver for macOS Module | snapshot-rollback + VM-management, the #1 module. Includes snapshot-rollback and VM-management for a
 
 
 
